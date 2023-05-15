@@ -1,0 +1,139 @@
+﻿{
+    "workouts": [
+        {
+            "_workoutName": "Legs",
+            "exercisesInWorkout": [
+                {
+                    "name": "Dumbbell Squat",
+                    "reps": 12,
+                    "sets": 4,
+                    "lastReps": 4,
+                    "lastSets": 5
+                },
+		{
+                    "name": "Dumbbell Stiff Leg Deadlift",
+                    "reps": 12,
+                    "sets": 4,
+                    "lastReps": 4,
+                    "lastSets": 5
+                },
+		{
+                    "name": "Dumbbell Goblet Squat",
+                    "reps": 12,
+                    "sets": 4,
+                    "lastReps": 4,
+                    "lastSets": 5
+                },
+		{
+                    "name": "Dumbbell Hip Thrust",
+                    "reps": 12,
+                    "sets": 4,
+                    "lastReps": 4,
+                    "lastSets": 5
+                },
+		{
+                    "name": "Dumbbell Calf Raise",
+                    "reps": 12,
+                    "sets": 4,
+                    "lastReps": 4,
+                    "lastSets": 5
+                }
+            ]
+
+        },
+        {
+        "_workoutName": "Push",
+            "exercisesInWorkout": [
+                {
+                    "name": "Dumbbell Bench Press",
+                    "reps": 12,
+                    "sets": 5,
+                    "lastReps": 12,
+                    "lastSets": 5
+                },
+                {
+                    "name": "Decline Dumbbell Bench Press",
+                    "reps": 12,
+                    "sets": 3,
+                    "lastReps": 13,
+                    "lastSets": 3
+                },
+                {
+                    "name": "Dumbbell Floor Press",
+                    "reps": 12,
+                    "sets": 3,
+                    "lastReps": 15,
+                    "lastSets": 3
+                },
+                {
+                    "name": "Seated Dumbbell Press",
+                    "reps": 12,
+                    "sets": 4,
+                    "lastReps": 12,
+                    "lastSets": 4
+                },
+                {
+                    "name": "Dumbbell Lateral Raise",
+                    "reps": 12,
+                    "sets": 3,
+                    "lastReps": 9,
+                    "lastSets": 3
+                },
+                {
+                    "name": "Dumbbell Tricep Overhead Extension",
+                    "reps": 12,
+                    "sets": 3,
+                    "lastReps": 12,
+                    "lastSets": 3
+                }
+                ]
+                },
+                  {
+        "_workoutName": "Pull",
+            "exercisesInWorkout": [
+                {
+                    "name": "Dumbbell Bent Over Row",
+                    "reps": 12,
+                    "sets": 4,
+                    "lastReps": 13,
+                    "lastSets": 4
+                },
+                {
+                    "name": "Chest Supported Dumbbell Row",
+                    "reps": 12,
+                    "sets": 4,
+                    "lastReps": 17,
+                    "lastSets": 4
+                },
+                {
+                    "name": "Dumbbell Pull Over",
+                    "reps": 12,
+                    "sets": 3,
+                    "lastReps": 15,
+                    "lastSets": 3
+                },
+                {
+                    "name": "Rear Delt Fly",
+                    "reps": 15,
+                    "sets": 3,
+                    "lastReps": 11,
+                    "lastSets": 4
+                },
+                {
+                    "name": "Dumbbell Bicep Curl",
+                    "reps": 15,
+                    "sets": 3,
+                    "lastReps": 9,
+                    "lastSets": 3
+                },
+                {
+                    "name": "Zottman Curl",
+                    "reps": 15,
+                    "sets": 3,
+                    "lastReps": 8,
+                    "lastSets": 3
+                }
+                ]
+                }
+    ]
+}
